@@ -1,4 +1,4 @@
-# This repository contains comprehensive details of assignments submitted by me to ExcelR.
+# This repository contains comprehensive details of assignments done by me while learning Data Science.
 
 # List of Assignments
 Basic Statistics_Level 1 - Uploaded
