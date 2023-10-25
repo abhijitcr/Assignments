@@ -8,7 +8,7 @@ Decision Trees
 Forecasting
 Hypothesis Testing - Uploaded
 KNN
-Logistic Regression - Work in Progress
+Logistic Regression - Uploaded
 Multi Linear Regression - Uploaded
 Naive Bayes
 Neural Networks
