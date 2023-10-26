@@ -1,4 +1,4 @@
-# This repository contains comprehensive details of assignments done by me while learning Data Science.
+# This repository contains comprehensive details of assignments done by me in Data Science.
 
 # List of Assignments
 Basic Statistics_Level 1 - Uploaded
