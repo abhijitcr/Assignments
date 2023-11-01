@@ -1,20 +1,3 @@
 # This repository contains comprehensive details of assignments done by me in Data Science.
 
-# List of Assignments
-Basic Statistics_Level 1 - Uploaded
-Basic Statistics_Level 2 - Uploaded
-Clustering
-Decision Trees
-Forecasting
-Hypothesis Testing - Uploaded
-KNN
-Logistic Regression - Uploaded
-Multi Linear Regression - Uploaded
-Naive Bayes
-Neural Networks
-PCA
-Random Forests
-Recommendation system
-Simple Linear Regression - Uploaded
-Support Vector Machines
-Text Mining
+Topics Covered: •Data Science Project Lifecycle •Introduction To Basic Statistics Using Python •Probability And Hypothesis Testing •Exploratory Data Analysis •Feature Engineering •Linear Regression •Logistic Regression •Deployment •Data Mining Unsupervised Clustering •Dimension Reduction Techniques •Association Rules •Recommender System •Introduction To Supervised Machine Learning •Decision Tree •Model Validation Methods •Ensembled Techniques •KNN And Support Vector Machines •Regularization Techniques •Neural Networks •Text Mining •Natural Language Processing •Naive Bayes •Forecasting •Survival Analysis •End To End Project Description With Deployment •Basics Of Artificial Intelligence (AI)
